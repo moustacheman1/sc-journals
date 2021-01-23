@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c5113e5-e40e-4e2f-bba7-d8f806067e64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/content/en/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/contact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/post/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/post/journal-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Pope-Edouard-de-Beaumont-1844.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/Victor_Hugo-Hunchback.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/esmeralda.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/notebook.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon-pack/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/template.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/admin/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/admin/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/posts-latest.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/home/posts-older.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/getting-started/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/getting-started/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/jupyter/featured.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/jupyter/index.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/jupyter/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/jupyter/index_1_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/writing-technical-content/featured.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/writing-technical-content/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/themes/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/themes/starter-blog.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/widgets/starter.blog.intro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/netlify.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/admin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/media/.gitkeep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mxAEhWQ0Pu9q8O1easR8X57xTP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\website\sc-journals" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\website\sc-journals\static\images" />
+      <recent name="C:\dev\website\sc-journals" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c5113e5-e40e-4e2f-bba7-d8f806067e64" name="Default Changelist" comment="" />
+      <created>1610424759016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610424759016</updated>
+      <workItem from="1610424760084" duration="1929000" />
+      <workItem from="1610510276253" duration="9000" />
+      <workItem from="1611412485005" duration="6527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1611417175852">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611417175852" />
+    <state x="93" y="100" width="1094" height="1207" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611418568188">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="93" y="100" width="1094" height="1207" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611418568188" />
+    <state x="987" y="433" width="702" height="534" key="find.popup" timestamp="1611420361222">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="433" width="702" height="534" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1611420361222" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1611420842370">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1611420842370" />
+  </component>
+</project>
