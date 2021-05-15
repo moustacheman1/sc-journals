@@ -6,14 +6,13 @@ themesDir = "themes"
 resourceDir = "resources"
 
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
     [languages.en]
-        title = "Home"
+        title = "SCJ"
         weight = 1
         contentDir = "content/en"
 
@@ -41,3 +40,14 @@ enableRobotsTXT = true
     background_color_class = "bg-near-black"
     featured_image = "images/background-image.jpg"
     recent_posts_number = 2
+
+[menu]
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = -110
+
+    [[menu.main]]
+        name = "Journals"
+        url = "/journal/"
+        weight = -100

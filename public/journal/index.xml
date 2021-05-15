@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journals on Home</title>
+    <link>https://example.com/journal/</link>
+    <description>Recent content in Journals on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Osteoarthritis - Is there a treatment?</title>
+      <link>https://example.com/journal/1/</link>
+      <pubDate>Sat, 23 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/journal/1/</guid>
+      <description>From general lack of exercise to obesity and an ageing population, osteoarthritis (OA) is the most common form of arthritis hindering the activity of more than 303 million individuals around the world in 2017. Osteoarthritis is a disease characterized by the breakdown of cartilage, made of elastic tissue, found between the bones at joints such as the hands, the hips and knees. Consequently, patients with OA experience lots of pain and limited mobility which impedes daily activities.</description>
+    </item>
+    
+  </channel>
+</rss>
