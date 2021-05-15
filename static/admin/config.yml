@@ -10,10 +10,10 @@ collections: # A list of collections the CMS should be able to edit
   - name: "journal" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Journal" # Used in the UI, ie.: "New Post"
     folder: "content/en/journal" # The path to the folder where the documents are stored
-    identifier_field: name
+    slug: "{{fields.name}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
-      - {label: "Name of file", name: "name", widget: "string"}
+      - {label: "Name of file", name: "name", widget: "number"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
