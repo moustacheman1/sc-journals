@@ -1,26 +1,8 @@
 ---
-name: 3
-title: The Future of Medicine
+name: 0
+title: Journals
 date: 2017-03-02T12:00:00-05:00
-description: "A look at the advantages and disadvatanges of having AI and
-  machine learning within healthcare and its possiblity to replace highly
-  skilled professionals. "
-featured_image: https://online.stanford.edu/sites/default/files/styles/figure_default/public/2020-08/artificial-intelligence-in-healthcare-MAIN.jpg?itok=CFkrao5e
+description: Saloni C.
+featured_image: https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1753&q=80
 ---
-Over the last decades, the future of many jobs have been jeopardized by automation and new advancement in machine learning. Although our current healthcare system involves the collaborations of many skilled individuals, there is potential for artificial intelligence to become the future of medicine. In 2017 article, “Will the machines take over surgery,” Anna Sayburn investigates the machine learning AI in the healthcare system looking specifically at the algorithms that can organize the immense amount of digital data produced each day within a hospital. However, healthcare has shifted within the last year due to the COVID-19 outbreak which may change some perspectives regarding AI within the healthcare system. 
-
-Machine learning is a branch of AI where programs and algorithms imitate human condition to learn, gradually improving accuracy. Various examples of AI applied within the healthcare field including PathAI a technology that assists pathologists (study bodies and body tissue) in making accurate and rapid diagnosis for many illnesses including cancer. This is one of many initiatives involved in implementing AI within the healthcare system. As PathAI showcased, AI can provide accuracy that goes beyond human error. WIth this much accuracy, many misdiagnoses and early detection is possible for critical condition such as cancers. According to the Canadian Patient Safety Institute, 28, 000 deaths per year are due  to medical errors. AI provide accuracy and efficiency that help avoid errors that are part of the human condition and improve better lifestyles for physicians and doctors. 
-
-Despite its benefits within the field of healthcare, there are some disadvantages.Implementing AI into the healthcare system means that the daily work of physicians and nurses become reliant on the functioning of the AI machine. In one malfunction or error, the flow of the healthcare system become jeopardizes as does the life of the patient. A hospital follows a system where patient might come in there are information to filled, visits by physicians, a diagnosis to be determined and a proper treatment plan. This system includes many highly skilled staff. If these staff were replaced by AI and a malfunction were to occur, the lack of staff to recover from machine issues could slow down the system and cause a disruption that may have detrimental impact on patients. Furthermore, relying on AI with a large database of sensitive patient information makes it vulnerable to hackers. In a 2018 survey by SAS, only 35% of patients expressed a bit of confidence that sensitive data for AI algorithm can be stored safely. There is concern from consumer standpoint as well. 
-
-This past pandemic, the healthcare system has been through many challenges that can with fighting against an novel virus and dealing with the lack of resources available. AI does have its incredible benefits that can the healthcare system, however I don’t believe AI will be be able to replace the unique work that is performed by highly skilled professionals everyday. It may even help emerge new careers, but medicine is primarily an industry that is run by the critical thinking and compassion of humans. 
-
-- - -
-
-### Citation
-
-* https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare 
-* https://www.pathai.com/what-we-do/
-* https://www.rcinet.ca/en/2019/10/28/thousands-die-from-medical-errors-yearly-notes-advocacy-group/
-* https://qz.com/1905712/when-ai-in-healthcare-goes-wrong-who-is-responsible-2/
-* https://publishing.rcseng.ac.uk/doi/pdf/10.1308/rcsbull.2017.87#:~:text=Most%20researchers%20agree%20that%20the,as%20the%20opera%2D%20tion%20progressed.
+Here are the journals that cover a variety of topics within biology and the healthcare field.
